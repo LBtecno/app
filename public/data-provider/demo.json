@@ -1,0 +1,191 @@
+{
+	"categories": [
+		{
+			"name": "Pizzas",
+            "id": "demo-pizzas",
+            "products":[
+                {
+                    "name": "Vegetariana",
+                    "id": "demo-pizzas-producto-001",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-pizza-001.jpg",
+                    "tax_percentage": "0",
+                    "price": "60",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Clásica",
+                    "id": "demo-pizzas-producto-002",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-pizza-002.jpg",
+                    "tax_percentage": "0",
+                    "price": "50",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Pizza infantil",
+                    "id": "demo-pizzas-producto-003",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-pizza-003.jpg",
+                    "tax_percentage": "0",
+                    "price": "40",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Pizza jalapeños",
+                    "id": "demo-pizzas-producto-004",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-pizza-004.jpg",
+                    "tax_percentage": "0",
+                    "price": "55",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Pizza familiar",
+                    "id": "demo-pizzas-producto-005",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-pizza-006.jpg",
+                    "tax_percentage": "0",
+                    "price": "70",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                }
+            ]
+		},
+        {
+            "name": "Hamburguesas",
+            "id": "demo-hamburguesas",
+            "products": [
+                {
+                    "name": "Clásica",
+                    "id": "demo-hamburguesas-producto-001",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-hamburguesa-001.jpg",
+                    "tax_percentage": "0",
+                    "price": "60",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Doble con queso",
+                    "id": "demo-hamburguesas-producto-002",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-hamburguesa-002.webp",
+                    "tax_percentage": "0",
+                    "price": "80",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Res con papas",
+                    "id": "demo-hamburguesas-producto-003",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-hamburguesa-003.webp",
+                    "tax_percentage": "0",
+                    "price": "70",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Vegetariana con papas",
+                    "id": "demo-hamburguesas-producto-004",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-hamburguesa-004.jpg",
+                    "tax_percentage": "0",
+                    "price": "60",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                }
+            ]
+        },
+        {
+            "name": "Tacos",
+            "id": "demo-tacos",
+            "products":[
+                {
+                    "name": "Longaniza",
+                    "id": "demo-tacos-producto-001",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-tacos-001.jpg",
+                    "tax_percentage": "0",
+                    "price": "50",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Vegetariano",
+                    "id": "demo-tacos-producto-002",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-tacos-002.jpg",
+                    "tax_percentage": "0",
+                    "price": "50",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Pastor",
+                    "id": "demo-tacos-producto-003",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-tacos-003.jpg",
+                    "tax_percentage": "0",
+                    "price": "50",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                },
+                {
+                    "name": "Arrachera",
+                    "id": "demo-tacos-producto-004",
+                    "active": true,
+                    "out_of_stock": false,
+                    "thumbnail_path": "https://menusypedidos.net/wp-content/uploads/2024/08/demo-tacos-004.jpg",
+                    "tax_percentage": "0",
+                    "price": "50",
+                    "old_price": "",
+                    "details_link": null,
+                    "details": "En este espacio se puede colocar el texto que describe a detalle los ingredientes del producto.",
+                    "options": []
+                }
+            ]
+        }
+	]
+}
